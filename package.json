@@ -1,0 +1,10 @@
+{
+  "name": "royal-beacon",
+  "description": "simple experimental tracking",
+  "author": "guillaume.garcera@gmail.com",
+  "dependencies": {
+    "redis": "0.10.x",
+    "moment": "2.5.x"
+  },
+  "engine": "node >= 0.10.x"
+}
